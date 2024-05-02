@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearnOpenCV", "LearnOpenCV.pyproj", "{AF0E8E13-4A33-4B8E-8804-3BFF8B684ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0E8E13-4A33-4B8E-8804-3BFF8B684ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0E8E13-4A33-4B8E-8804-3BFF8B684ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F91047-5204-406F-8EEA-F5523F8106A7}
+	EndGlobalSection
+EndGlobal
